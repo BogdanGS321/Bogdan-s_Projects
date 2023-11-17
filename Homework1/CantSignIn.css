@@ -1,0 +1,139 @@
+@font-face {
+    font-family: Khand;
+    src: url(Fonts/Khand.ttf);  
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(Fonts/Inter.ttf);
+}
+
+html {
+    margin: 0px;
+    height: 100%;
+    width: 100%;
+}
+
+body {  
+    display: grid;
+    min-height: 100%;
+    background-image: url(Images_and_icons/Background.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    justify-items: center;;
+}
+
+.CantSignIn {
+    position:absolute;
+    grid-column: 2;
+    top:15%;
+    left: 30%;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 96px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.SucksToBeYou {
+    position:absolute;
+    grid-column: 2;
+    top: 34%;
+    left:36.5%;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.rectangle1 {
+    grid-column: 1;
+    grid-row:2;
+    border-radius: 30px;
+    background: #FFF;
+    width: 307px;
+    height: 351px;
+}
+
+.rectangle2 {
+    grid-column: 2;
+    grid-row:2;
+    border-radius: 30px;
+    background: #FFF;
+    width: 307px;
+    height: 351px;
+}
+
+.rectangle3 {
+    grid-column: 3;
+    grid-row:2;
+    border-radius: 30px;
+    background: #FFF;
+    width: 307px;
+    height: 351px;
+}
+
+.ImgAlign{
+    position: relative;
+    top:5%;
+    left:27%;
+}
+
+h1 {
+    color: #979797;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+h3 {
+    color: #B8B8B8;
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.UsernameLost{
+    position:relative;
+    top:5%;
+    left:19.5%;   
+}
+
+.PasswordLost{
+    position:relative;
+    top:5%;
+    left:11%;
+}
+
+.EmailLost{
+    position:relative;
+    top:12%;
+    left:19%;
+}
+
+.Text1 {
+    position:relative;
+    top:5%;
+}
+
+.Text2 {
+    position:relative;
+    top:4.5%;
+}
+
+.Text3 {
+    position:relative;
+    top:12%;
+}
