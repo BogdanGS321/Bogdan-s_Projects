@@ -1,0 +1,50 @@
+C:\Users\Bogdi\source\repos\Joc de ghicit\Joc de ghicit\bin\Debug\net6.0-windows\Joc de ghicit.exe
+C:\Users\Bogdi\source\repos\Joc de ghicit\Joc de ghicit\bin\Debug\net6.0-windows\Joc de ghicit.deps.json
+C:\Users\Bogdi\source\repos\Joc de ghicit\Joc de ghicit\bin\Debug\net6.0-windows\Joc de ghicit.runtimeconfig.json
+C:\Users\Bogdi\source\repos\Joc de ghicit\Joc de ghicit\bin\Debug\net6.0-windows\Joc de ghicit.dll
+C:\Users\Bogdi\source\repos\Joc de ghicit\Joc de ghicit\bin\Debug\net6.0-windows\Joc de ghicit.pdb
+C:\Users\Bogdi\source\repos\Joc de ghicit\Joc de ghicit\obj\Debug\net6.0-windows\Joc de ghicit.vbproj.AssemblyReference.cache
+C:\Users\Bogdi\source\repos\Joc de ghicit\Joc de ghicit\obj\Debug\net6.0-windows\Joc_de_ghicit.Form1.resources
+C:\Users\Bogdi\source\repos\Joc de ghicit\Joc de ghicit\obj\Debug\net6.0-windows\Joc de ghicit.vbproj.GenerateResource.cache
+C:\Users\Bogdi\source\repos\Joc de ghicit\Joc de ghicit\obj\Debug\net6.0-windows\Joc de ghicit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bogdi\source\repos\Joc de ghicit\Joc de ghicit\obj\Debug\net6.0-windows\Joc de ghicit.AssemblyInfoInputs.cache
+C:\Users\Bogdi\source\repos\Joc de ghicit\Joc de ghicit\obj\Debug\net6.0-windows\Joc de ghicit.AssemblyInfo.vb
+C:\Users\Bogdi\source\repos\Joc de ghicit\Joc de ghicit\obj\Debug\net6.0-windows\Joc de ghicit.vbproj.CoreCompileInputs.cache
+C:\Users\Bogdi\source\repos\Joc de ghicit\Joc de ghicit\obj\Debug\net6.0-windows\Joc de ghicit.dll
+C:\Users\Bogdi\source\repos\Joc de ghicit\Joc de ghicit\obj\Debug\net6.0-windows\refint\Joc de ghicit.dll
+C:\Users\Bogdi\source\repos\Joc de ghicit\Joc de ghicit\obj\Debug\net6.0-windows\Joc de ghicit.pdb
+C:\Users\Bogdi\source\repos\Joc de ghicit\Joc de ghicit\obj\Debug\net6.0-windows\Joc de ghicit.genruntimeconfig.cache
+C:\Users\Bogdi\source\repos\Joc de ghicit\Joc de ghicit\obj\Debug\net6.0-windows\ref\Joc de ghicit.dll
+F:\Proiect BPO\Joc de ghicit\Joc de ghicit\bin\Debug\net6.0-windows\Joc de ghicit.exe
+F:\Proiect BPO\Joc de ghicit\Joc de ghicit\bin\Debug\net6.0-windows\Joc de ghicit.deps.json
+F:\Proiect BPO\Joc de ghicit\Joc de ghicit\bin\Debug\net6.0-windows\Joc de ghicit.runtimeconfig.json
+F:\Proiect BPO\Joc de ghicit\Joc de ghicit\bin\Debug\net6.0-windows\Joc de ghicit.dll
+F:\Proiect BPO\Joc de ghicit\Joc de ghicit\bin\Debug\net6.0-windows\Joc de ghicit.pdb
+F:\Proiect BPO\Joc de ghicit\Joc de ghicit\obj\Debug\net6.0-windows\Joc de ghicit.vbproj.AssemblyReference.cache
+F:\Proiect BPO\Joc de ghicit\Joc de ghicit\obj\Debug\net6.0-windows\Joc_de_ghicit.Form1.resources
+F:\Proiect BPO\Joc de ghicit\Joc de ghicit\obj\Debug\net6.0-windows\Joc de ghicit.vbproj.GenerateResource.cache
+F:\Proiect BPO\Joc de ghicit\Joc de ghicit\obj\Debug\net6.0-windows\Joc de ghicit.GeneratedMSBuildEditorConfig.editorconfig
+F:\Proiect BPO\Joc de ghicit\Joc de ghicit\obj\Debug\net6.0-windows\Joc de ghicit.AssemblyInfoInputs.cache
+F:\Proiect BPO\Joc de ghicit\Joc de ghicit\obj\Debug\net6.0-windows\Joc de ghicit.AssemblyInfo.vb
+F:\Proiect BPO\Joc de ghicit\Joc de ghicit\obj\Debug\net6.0-windows\Joc de ghicit.vbproj.CoreCompileInputs.cache
+F:\Proiect BPO\Joc de ghicit\Joc de ghicit\obj\Debug\net6.0-windows\Joc de ghicit.dll
+F:\Proiect BPO\Joc de ghicit\Joc de ghicit\obj\Debug\net6.0-windows\refint\Joc de ghicit.dll
+F:\Proiect BPO\Joc de ghicit\Joc de ghicit\obj\Debug\net6.0-windows\Joc de ghicit.pdb
+F:\Proiect BPO\Joc de ghicit\Joc de ghicit\obj\Debug\net6.0-windows\Joc de ghicit.genruntimeconfig.cache
+F:\Proiect BPO\Joc de ghicit\Joc de ghicit\obj\Debug\net6.0-windows\ref\Joc de ghicit.dll
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Joc de ghicit\Joc de ghicit\bin\Debug\net6.0-windows\Joc de ghicit.exe
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Joc de ghicit\Joc de ghicit\bin\Debug\net6.0-windows\Joc de ghicit.deps.json
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Joc de ghicit\Joc de ghicit\bin\Debug\net6.0-windows\Joc de ghicit.runtimeconfig.json
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Joc de ghicit\Joc de ghicit\bin\Debug\net6.0-windows\Joc de ghicit.dll
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Joc de ghicit\Joc de ghicit\bin\Debug\net6.0-windows\Joc de ghicit.pdb
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Joc de ghicit\Joc de ghicit\obj\Debug\net6.0-windows\Joc_de_ghicit.Form1.resources
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Joc de ghicit\Joc de ghicit\obj\Debug\net6.0-windows\Joc de ghicit.vbproj.GenerateResource.cache
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Joc de ghicit\Joc de ghicit\obj\Debug\net6.0-windows\Joc de ghicit.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Joc de ghicit\Joc de ghicit\obj\Debug\net6.0-windows\Joc de ghicit.AssemblyInfoInputs.cache
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Joc de ghicit\Joc de ghicit\obj\Debug\net6.0-windows\Joc de ghicit.AssemblyInfo.vb
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Joc de ghicit\Joc de ghicit\obj\Debug\net6.0-windows\Joc de ghicit.vbproj.CoreCompileInputs.cache
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Joc de ghicit\Joc de ghicit\obj\Debug\net6.0-windows\Joc de ghicit.dll
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Joc de ghicit\Joc de ghicit\obj\Debug\net6.0-windows\refint\Joc de ghicit.dll
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Joc de ghicit\Joc de ghicit\obj\Debug\net6.0-windows\Joc de ghicit.pdb
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Joc de ghicit\Joc de ghicit\obj\Debug\net6.0-windows\Joc de ghicit.genruntimeconfig.cache
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Joc de ghicit\Joc de ghicit\obj\Debug\net6.0-windows\ref\Joc de ghicit.dll

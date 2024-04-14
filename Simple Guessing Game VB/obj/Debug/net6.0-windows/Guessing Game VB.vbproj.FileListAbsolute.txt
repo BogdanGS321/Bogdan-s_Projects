@@ -1,0 +1,16 @@
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Joc de ghicit\Joc de ghicit\bin\Debug\net6.0-windows\Guessing Game VB.exe
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Joc de ghicit\Joc de ghicit\bin\Debug\net6.0-windows\Guessing Game VB.deps.json
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Joc de ghicit\Joc de ghicit\bin\Debug\net6.0-windows\Guessing Game VB.runtimeconfig.json
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Joc de ghicit\Joc de ghicit\bin\Debug\net6.0-windows\Guessing Game VB.dll
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Joc de ghicit\Joc de ghicit\bin\Debug\net6.0-windows\Guessing Game VB.pdb
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Joc de ghicit\Joc de ghicit\obj\Debug\net6.0-windows\Joc_de_ghicit.Form1.resources
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Joc de ghicit\Joc de ghicit\obj\Debug\net6.0-windows\Guessing Game VB.vbproj.GenerateResource.cache
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Joc de ghicit\Joc de ghicit\obj\Debug\net6.0-windows\Guessing Game VB.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Joc de ghicit\Joc de ghicit\obj\Debug\net6.0-windows\Guessing Game VB.AssemblyInfoInputs.cache
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Joc de ghicit\Joc de ghicit\obj\Debug\net6.0-windows\Guessing Game VB.AssemblyInfo.vb
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Joc de ghicit\Joc de ghicit\obj\Debug\net6.0-windows\Guessing Game VB.vbproj.CoreCompileInputs.cache
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Joc de ghicit\Joc de ghicit\obj\Debug\net6.0-windows\Guessing Game VB.dll
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Joc de ghicit\Joc de ghicit\obj\Debug\net6.0-windows\refint\Guessing Game VB.dll
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Joc de ghicit\Joc de ghicit\obj\Debug\net6.0-windows\Guessing Game VB.pdb
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Joc de ghicit\Joc de ghicit\obj\Debug\net6.0-windows\Guessing Game VB.genruntimeconfig.cache
+E:\Facultate\Semestrul 2 Anul 1\Bazele programarii pe obiecte\Proiect BPO\Joc de ghicit\Joc de ghicit\obj\Debug\net6.0-windows\ref\Guessing Game VB.dll
